@@ -1,2 +1,1 @@
-# Baekjoon_SOL
-Baekjoon problem solving
+# Algorithm Study
